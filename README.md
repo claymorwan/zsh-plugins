@@ -1,3 +1,3 @@
 # zsh-plugins
 
-- [Flatpak plugin]()
+- [Flatpak plugin](https://github.com/claymorwan/zsh-plugins/tree/main/Flatpak)
