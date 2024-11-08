@@ -1,2 +1,3 @@
 # zsh-plugins
-A repo for my zsh plugins
+
+- [Flatpak plugin]()
