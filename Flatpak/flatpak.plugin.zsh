@@ -11,3 +11,4 @@ alias flatlist='flatpak list'
 alias flatrun='flatpak run'
 alias flatrep='flatpak repair'
 alias flatkill='flatpak kill'
+
